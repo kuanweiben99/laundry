@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run laundry-streamlit.py
+web: sh setup.sh && streamlit run ALAMAK.py
